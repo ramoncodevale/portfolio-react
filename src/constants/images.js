@@ -1,9 +1,7 @@
 import Avatar from '../assets/avatar.png';
-import { BsLinkedin, BsGithub, BsWhatsapp } from 'react-icons/bs';
+import Perfil from '../assets/minha-foto.png'
 
 export default {
      Avatar,
-     BsLinkedin,
-     BsGithub,
-     BsWhatsapp,
+     Perfil,
     }
