@@ -15,13 +15,13 @@ function Home() {
             </button>
       <div className="flex mt-4">
         <a href="#">
-          <BsGithub className="text-cyan-300 hover:text-cyan-500 mx-2" size={25} />
+          <BsGithub className="text-cyan-300 hover:text-cyan-500 mx-2" size={20} />
         </a>
         <a href="#">
-          <BsLinkedin className="text-cyan-300 hover:text-cyan-500 mx-2" size={25} />
+          <BsLinkedin className="text-cyan-300 hover:text-cyan-500 mx-2" size={20} />
         </a>
         <a href="#">
-          <BsWhatsapp className="text-cyan-300 hover:text-cyan-500 mx-2" size={25} />
+          <BsWhatsapp className="text-cyan-300 hover:text-cyan-500 mx-2" size={20} />
         </a>
       </div>
           </div>

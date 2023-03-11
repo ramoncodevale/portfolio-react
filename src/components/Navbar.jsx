@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="bg-[#171717] text-neutral-50 flex justify-center h-[56px]">
+    <div className="bg-[#000] border-b-[2px] border-white text-neutral-50 flex justify-center h-[56px]">
       <ul className="flex justify-between items-center">
         <li className="px-4  hover:text-cyan-300">Inicio</li>
         <li className="px-4    hover:text-cyan-300">Sobre Mim</li>
