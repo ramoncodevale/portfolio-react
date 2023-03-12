@@ -6,7 +6,7 @@ import About from "./pages/About";
 function App() {
 
   return (
-    <div className="bg-black">
+    <div className="bg-stone-900">
       <Navbar />
       <Home />
       <About />

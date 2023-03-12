@@ -4,10 +4,10 @@ import data from '../constants/data'
 const About = () => {
   return (
     <div>
-    <h1 className='text-cyan-500 text-4xl flex justify-center  mt-50'>Sobre Mim</h1>
+    <h1 className='text-amber-500 text-4xl flex justify-center  mt-40'>Sobre Mim</h1>
     <div className='mt-50'>
     {data.contentAbout.map((content, index) =>(
-    <div className='flex justify-evenly mt-[150px]' key={index}>
+    <div className='flex justify-evenly mt-[160px]' key={index}>
     <p className='text-white w-[500px] mt-[20px]'>{content.text}</p>
     <img src={content.image} className='w-[250px]  h-[250px] rounded' />
     </div>
