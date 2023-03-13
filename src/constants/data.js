@@ -34,7 +34,7 @@ const contentSkills = [
 
 
     {
-        image:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" ,
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
         title: 'React',
     },
 
@@ -44,16 +44,39 @@ const contentSkills = [
     },
 
     {
-        image:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
-        title: 'tailwind',
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+        title: "tailwind",
     },
 ]
 
 const contentProject = [
     {
-      
+        image: images.Honey,
+        title: "Website Honey",
+        linkProject: "https://funny-figolla-636536.netlify.app/",
+        linkGithub: "https://github.com/ramoncodevale/website-honey",
     },
 
+    {
+        image: images.Card3d,
+        title: 'Card 3d',
+        linkProject: "https://cheery-fairy-b2fa58.netlify.app/",
+        linkGithub: "https://github.com/ramoncodevale/card-nike-3d",
+    },
+
+    {
+        image: images.Watch,
+        title: "Website Watch",
+        linkProject:"https://calm-chaja-59a321.netlify.app/",
+        linkGithub: "https://github.com/ramoncodevale/Watch",
+    },
+
+    {
+        image: images.Food,
+        title: "Website Food",
+        linkProject: "https://aesthetic-lily-514443.netlify.app/",
+        linkGithub: "https://github.com/ramoncodevale/Website-food",
+    },
 ]
 
 
