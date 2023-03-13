@@ -42,7 +42,19 @@ const contentSkills = [
         image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
         title: 'Figma',
     },
+
+    {
+        image:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+        title: 'tailwind',
+    },
+]
+
+const contentProject = [
+    {
+      
+    },
+
 ]
 
 
-export default { contentHome, contentAbout, contentSkills }
+export default { contentHome, contentAbout, contentSkills, contentProject }
