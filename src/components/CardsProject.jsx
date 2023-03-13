@@ -3,7 +3,7 @@ import React from 'react'
 
 function CardsProject({image,title,linkProject,linkGithub}) {
   return (
-    <div className='bg-white/5 bg-opacity-80 backdrop-blur-sm shadow hover:color-amber-500 rounded w-[250px] h-auto text-center mx-3'>
+    <div className='bg-white/5 bg-opacity-80 backdrop-blur-sm shadow hover:color-amber-500 rounded w-[350px] h-auto text-center mx-9'>
     <div className='flex justify-center'>
     <img className='w-[200px] h-[200px] mt-[35px]' src={image} />
     </div>

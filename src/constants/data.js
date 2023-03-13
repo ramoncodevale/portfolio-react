@@ -67,7 +67,7 @@ const contentProject = [
     {
         image: images.Watch,
         title: "Website Watch",
-        linkProject:"https://calm-chaja-59a321.netlify.app/",
+        linkProject: "https://calm-chaja-59a321.netlify.app/",
         linkGithub: "https://github.com/ramoncodevale/Watch",
     },
 
@@ -79,5 +79,12 @@ const contentProject = [
     },
 ]
 
+const contentContact = [
+    {
+     image: images.Contact,
 
-export default { contentHome, contentAbout, contentSkills, contentProject }
+    },
+]
+
+
+export default { contentHome, contentAbout, contentSkills, contentProject, contentContact}

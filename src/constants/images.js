@@ -5,7 +5,7 @@ import Honey from '../assets/honey-1.png';
 import Card3d from '../assets/card-3d.png';
 import Watch from '../assets/Watchsite.png';
 import Food from '../assets/web-site-food.png';
-
+import Contact from '../assets/contatos.png';
 
 
 
@@ -18,4 +18,5 @@ export default {
      Card3d,
      Watch,
      Food,
+     Contact,
     }
