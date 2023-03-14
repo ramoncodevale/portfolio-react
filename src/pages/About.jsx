@@ -4,7 +4,7 @@ import data from "../constants/data";
 const About = () => {
   return (
     <div>
-      <h1 className="text-amber-500 hover:text-amber-400 text-4xl flex justify-center  mt-40">
+      <h1 className="text-amber-500 hover:text-amber-400 font-bold text-4xl flex justify-center  mt-40">
         Sobre Mim
       </h1>
       <div className="mt-[50px]">

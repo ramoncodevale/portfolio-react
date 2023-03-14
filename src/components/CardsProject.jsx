@@ -10,11 +10,11 @@ function CardsProject({image,title,linkProject,linkGithub}) {
     <h4 className='text-amber-500 hover:text-slate-50 mt-[10px]'>{title}</h4>
     <div className='flex justify-center mt-[35px]'> 
     <a href={linkProject}>   
-    <button className=' w-[100px] h-[30px]  bg-amber-500 hover:bg-amber-400 text-white rounded '>
+    <button className=' w-[100px] h-[30px]  bg-amber-500 hover:bg-amber-400 text-black rounded '>
      Projeto 
     </button>
     <a href={linkGithub}>
-    <button className='w-[100px] h-[30px] bg-amber-500 hover:bg-amber-400 text-white rounded mx-2 '>
+    <button className='w-[100px] h-[30px] bg-amber-500 hover:bg-amber-400 text-black rounded mx-2 '>
      Github
     </button>
     </a>

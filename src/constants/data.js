@@ -82,7 +82,8 @@ const contentProject = [
 const contentContact = [
     {
      image: images.Contact,
-
+     number: '19 99414-5510',
+     email: 'ramonvalentim88@gmail.com',
     },
 ]
 

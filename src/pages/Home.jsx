@@ -12,7 +12,7 @@ function Home() {
               {" "}
               {content.paragraph1}
             </h1>
-            <h1 className="text-amber-500 text-4xl hover:text-amber-400">
+            <h1 className="text-amber-500 text-4xl font-bold hover:text-amber-400">
               {content.paragraph2}
             </h1>
             <a href={content.curriculo}>
