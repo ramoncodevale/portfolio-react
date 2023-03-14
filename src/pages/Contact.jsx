@@ -13,8 +13,8 @@ function Contact() {
         {data.contentContact.map((content, i) => (
          <div className='flex justify-center' key={i}> 
           <img className='w-[300px] h-[300px] mt-[35px]' src={content.image} />
-          <h3 className=' text-white text-lg mt-[100px]'>{content.number}</h3>
           <div className='flex justify-space-center mt-[100px]'>  
+          <h3 className=' text-white text-lg mt-[100px]'>{content.number}</h3>
           <h3 className=' text-white text-lg'>{content.email}</h3>
           </div>
          </div>
