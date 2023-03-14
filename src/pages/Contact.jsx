@@ -12,7 +12,7 @@ function Contact() {
       <div className="flex justify-center items-center mt-[50px]">
         {data.contentContact.map((content, i) => (
          <div key={i}>
-          <img className='w-[200px] h-[200px] mt-[35px]' src={content.image} alt="" />
+          <img className='w-[300px] h-[300px] mt-[35px]' src={content.image} alt="" />
          </div>
         ))}
       </div>
